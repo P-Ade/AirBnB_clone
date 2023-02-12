@@ -1,29 +1,13 @@
-
-
-Lordwill1
-/
-AirBnB_clone
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-AirBnB_clone/README.md
-@adamsbola
-adamsbola update
- 2 contributors
-Executable File  276 lines (199 sloc)  7.35 KB
 0x00. AirBnB clone - The console
-0x00.Table of contents
+
+0x00.Table of Contents
 0x01 Introduction
 0x02 Environment
 0x03 Installation
 0x04 Testing
 0x05 Usage
 0x06 Authors
+
 0x01 Introduction
 Team project to build a clone of AirBnB.
 
