@@ -1,12 +1,12 @@
-AirBnB clone - The console
+0x00. AirBnB clone - The console
 
 0x00.Table of contents
-• 0x01.Introduction
-• 0x02.Environment
-• 0x03.Installation
-• 0x04.Testing
-• 0x05.Usage
-• 0x06.Authors
+0×01.Introduction
+0×02.Environment
+0×03.Installation
+0×04.Testing
+0×05.Usage
+0×06.Authors
 
 0x01.Introduction
 Team project to build a clone of AirBnB.
